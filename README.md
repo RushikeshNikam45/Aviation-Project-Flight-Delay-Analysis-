@@ -3,7 +3,6 @@
 ![Flight](https://github.com/user-attachments/assets/8f581bc2-c50c-4470-9e24-c36ded15467b)
 
 
-Microsoft #30daysoflearning Capstone
 ## Flight Delays
 This occurs when an airline takes off or lands later than its scheduled time, a flight is considered delayed when it is 15minutes later than its scheduled time.
 Causes include; unpleasant weather in the case of hurricane,thunderstorm, also includes congestion in air traffic, maintenance problems, late arrival of aircraft to be used, etc.
