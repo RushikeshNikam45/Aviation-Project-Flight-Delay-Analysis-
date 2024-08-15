@@ -1,4 +1,4 @@
-# Airline-Delay-Analysis
+# Flight-Delay-Analysis
 
 ![Flight](https://github.com/user-attachments/assets/8f581bc2-c50c-4470-9e24-c36ded15467b)
 
