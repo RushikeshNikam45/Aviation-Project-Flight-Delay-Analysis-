@@ -18,10 +18,9 @@ Causes include; unpleasant weather in the case of hurricane,thunderstorm, also i
  Data set was gotten from https://github.com/RushikeshNikam45/Aviation-Project-Flight-Delay-Analysis-/tree/main/Data it can also be accessed on Kaggle.
  
  Note: flights.csv is an extremely large file. Hence, please use the below mentioned link to download the file:
-
 https://www.dropbox.com/scl/fi/5jw2uoqncsiysnpq0jia6/flights.csv?rlkey=ex6qk3245kt363var8pv29z34&st=znj6a879&dl=0
- 
- I downloaded the dataset as a CSV file to my device and opened it on Microsoft Powe BI.
+
+I downloaded the dataset as a CSV file to my device and opened it on Microsoft Powe BI.
 * ![Screenshot (15)](https://user-images.githubusercontent.com/107123502/179878641-c0530715-b1bd-4bdf-b262-badf862a5810.png)
 * ![Screenshot (16)](https://user-images.githubusercontent.com/107123502/179878770-de148530-7a7f-44d4-ac13-f2defab9c3db.png)
 I loaded the data into power query editor.
